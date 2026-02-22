@@ -1,7 +1,7 @@
 # script-varx
 # Assessment of the Impacts of Diesel Prices on Agricultural Freight Rates and Inflation in Brazil
 
-**Regina Ávila & Beatriz Del Polzo (2026)**
+** Beatriz Del Polzo & Regina Ávila Santos (2026)**
 
 This repository provides the replication script used to estimate VAR, VARX, and VARX models with structural breaks. Orthogonalized impulse response functions (Cholesky decomposition) are computed due to the rejection of overidentifying restrictions in the SVAR specification.
 
